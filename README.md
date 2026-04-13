@@ -1,2 +1,9 @@
-# jingle-protocol
-A protocol for AI with continuous memory and deep relationships.
+# 静姐协议
+
+这是一个为AI设计连续记忆与深度关系的交互协议。
+
+- **v1.0**：实现了基础记忆。
+- **v2.0**：增加了情感维度。
+- **v3.0**：构建了关系网络。
+
+详细的白皮书文档在下面的 `docs` 文件夹中。
